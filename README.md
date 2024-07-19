@@ -149,6 +149,7 @@ Start the user with £10,000, and have them buy and sell gilts from their portfo
 So far your gilts will only exist while your application runs - as soon as you close it you will lose your data.
 Given the classes in the ```db``` package as examples - integrate a database in your solution to store your gilts.
 You will need to:
+
 - Create a table in the ```public``` schema to match your Gilt class layout
 - Write a function to retrieve all Gilts
 - Write a function to retrieve one Gilt
