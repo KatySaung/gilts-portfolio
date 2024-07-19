@@ -1,8 +1,6 @@
 # README #
 Welcome to the Elevate Gilt Portfolio.
 
-*This is the completed version, for private Mallon use only*
-
 # The Problem (and the Mathematics) # 
 A _Gilt_ is a British Government issued bond. A _bond_ is a loan - the issuer of the bond promises to pay the holder a certain amount of interest (the coupon) every year, along with the _principal_ (the amount of the loan) after the bond expires.
 
